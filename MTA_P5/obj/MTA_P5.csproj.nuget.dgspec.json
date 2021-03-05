@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/Volumes/Workzone/1_Soucore/28_MTA_CERTIFICATE_PROJECT/baitap_day2/MTA_DAY2/MTA_P5/MTA_P5.csproj": {}
+  },
+  "projects": {
+    "/Volumes/Workzone/1_Soucore/28_MTA_CERTIFICATE_PROJECT/baitap_day2/MTA_DAY2/MTA_P5/MTA_P5.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/Workzone/1_Soucore/28_MTA_CERTIFICATE_PROJECT/baitap_day2/MTA_DAY2/MTA_P5/MTA_P5.csproj",
+        "projectName": "MTA_P5",
+        "projectPath": "/Volumes/Workzone/1_Soucore/28_MTA_CERTIFICATE_PROJECT/baitap_day2/MTA_DAY2/MTA_P5/MTA_P5.csproj",
+        "packagesPath": "/Users/untralvious/.nuget/packages/",
+        "outputPath": "/Volumes/Workzone/1_Soucore/28_MTA_CERTIFICATE_PROJECT/baitap_day2/MTA_DAY2/MTA_P5/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/untralvious/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
